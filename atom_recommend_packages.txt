@@ -37,7 +37,6 @@ atom-beautify
 git-plus
 git-time-machine
 tree-view-git-branch
-asciidoc-preview
-language-asciidoc
 markdown-table-editor
 atom-csv-markdown
+asciidoc-assistant
